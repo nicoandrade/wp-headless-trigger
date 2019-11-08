@@ -1,0 +1,73 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP Headless Trigger\n"
+"POT-Creation-Date: 2019-11-08 16:49-0300\n"
+"PO-Revision-Date: 2019-11-08 16:48-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-headless-trigger.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: inc/options-page.php:3 wp-headless-trigger.php:22
+msgid "WP Headless Trigger"
+msgstr ""
+
+#: inc/options-page.php:4
+msgid ""
+"Set up your webhooks to start deploying after every post or page update."
+msgstr ""
+
+#: inc/options-page.php:8
+msgid "Latest trigger: "
+msgstr ""
+
+#: inc/options-page.php:23
+msgid "The URL provided by your hosting company for a custom webhook"
+msgstr ""
+
+#: wp-headless-trigger.php:22
+msgid "Headless Trigger"
+msgstr ""
+
+#: wp-headless-trigger.php:33
+msgid "Settings"
+msgstr ""
+
+#: wp-headless-trigger.php:39
+msgid "Webhook URL"
+msgstr ""
+
+#: wp-headless-trigger.php:50
+msgid "Your Settings Have Been Updated!"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/iamtimsmith/wp-trigger-netlify-build"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A plugin which helps you using WordPress as a Headless CMS, takes a webhook "
+"url and triggers a build on your front end."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Quema Labs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://quemalabs.com"
+msgstr ""
